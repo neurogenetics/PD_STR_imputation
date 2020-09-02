@@ -348,6 +348,10 @@ PROCESS toMeta.GWAS2.tab
 metal metal.txt
 ```
 
+## Results 
+
+Full summary stats from the imputed STR meta-analysis can be found [here](https://drive.google.com/file/d/1kD1i6tHdYC5w0xvxWLD4B-bSPqpnwzNV/view?usp=sharing)
+
 
 ### References:
 
