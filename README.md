@@ -116,6 +116,7 @@ NEW:
 ## 3) GWAS QC 
 
 This pipeline takes directions from [here](https://github.com/neurogenetics/GWAS-pipeline)
+
 *Make sure that covariate file has PCs per dataset
 
 - Calculate PCs per cohort 
