@@ -1,5 +1,3 @@
-# PD_STR_imputation
-Imputing STR calls from PD SNP based data using the Gymrek STR reference 1kg reference panel
 # **IPDGC STR PIPELINE**
 
 Date: March 2020
